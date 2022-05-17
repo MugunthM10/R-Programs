@@ -9,3 +9,10 @@
 6. Identify the position of the element stored in the list.
 7. Write the R script to generate pie chart to represent rainfall of various regions. Provide appropriate legends also.
 8. Write the R script to generate stacked barplot to represent rainfall of various regions in 3 different months.
+9. create pie chart for the following data 
+   Housing-------600
+   Food----------300
+   Clothes-------150
+   Entertainment-100
+   Others--------200
+10.
